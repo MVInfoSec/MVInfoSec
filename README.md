@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @MVInfoSec. Welcome to my InfoSec Portfolio Showcase repository!
+- Here, you'll find a curated collection of my cybersecurity projects highlighting my journey into the field of information security.
+- Whether you're a fellow enthusiast, a hiring manager, or simply curious about the world of cybersecurity, this repository is designed to give you insight into my skills, knowledge, and areas of interest.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: More than one billion malware programs exist.
+- 📫 Reach me on LinkedIn LinkedIn [here](https://www.linkedin.com/in/maximiliano-villarreal-805720181/).
